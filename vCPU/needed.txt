@@ -1,0 +1,6 @@
+Virtual RAM
+Virtual Microprocessor
+Virtual GPU
+Virtual Clock
+Virtual ALU
+
